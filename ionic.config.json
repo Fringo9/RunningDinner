@@ -1,0 +1,7 @@
+{
+  "name": "runningdinner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
